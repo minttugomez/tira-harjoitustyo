@@ -1,2 +1,2 @@
-# Tira harjoitustyo
+# Tira harjoitustyä
 ## Viikko 1
