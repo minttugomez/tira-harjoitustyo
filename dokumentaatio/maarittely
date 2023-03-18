@@ -1,0 +1,9 @@
+## Määrittelydokumentti
+
+Opinto-ohjelma: tietojenkäsittelytiede
+Projektin kieli: python
+Projekti: kivi-paperi-sakset
+Käytettävät algoritmit: Markovin ketjut
+Ratkaistava ongelma: pelaajan voittaminen kivi-paperi-sakset -pelissä
+Syy valittuihin algoritmeihin: tutkimalla pelaajan edellisiä siirtoja, voidaan ennakoida pelaajan seuraava siirto
+Algoritmin tavoitteellinen aikavaativuus: O(
