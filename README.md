@@ -1,6 +1,6 @@
 # Tira harjoitustyö
 ## Dokumentit
-[Määrittelydokumentti]()
+[Määrittelydokumentti](https://github.com/minttugomez/tira-harjoitustyo/blob/master/dokumentaatio/M%C3%A4%C3%A4rittelydokumentti)
 
 [Toteutusdokumentti]()
 
