@@ -1,4 +1,4 @@
-## Määrittelydokumentti
+# Määrittelydokumentti
 ### Opinto-ohjelma
 Tietojenkäsittelytieteen kandidaatti (TKT)
 ### Projektin kieli
