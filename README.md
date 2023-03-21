@@ -1,6 +1,6 @@
 # Tira harjoitustyö
 ## Dokumentit
-[Määrittelydokumentti]()
+[Määrittelydokumentti]()/n
 [Toteutusdokumentti]()
 [Testausdokumentti]()
 [Käyttöohje]()
