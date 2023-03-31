@@ -8,6 +8,7 @@ packages = [{include = "kivi_paperi_sakset"}]
 
 [tool.poetry.dependencies]
 python = "^3.8"
+pygame = "^2.3.0"
 
 
 [build-system]
