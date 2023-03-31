@@ -1,0 +1,15 @@
+[tool.poetry]
+name = "kivi-paperi-sakset"
+version = "0.1.0"
+description = "Kivi-paperi-sakset -peli, jossa käyttäjä pelaa tekoälyä vastaan"
+authors = ["Minttu Jämsä"]
+readme = "README.md"
+packages = [{include = "kivi_paperi_sakset"}]
+
+[tool.poetry.dependencies]
+python = "^3.8"
+
+
+[build-system]
+requires = ["poetry-core"]
+build-backend = "poetry.core.masonry.api"
