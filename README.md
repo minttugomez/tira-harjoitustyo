@@ -9,8 +9,13 @@
 [Käyttöohje]()
 ## Viikkoraportit
 [Viikko 1](https://github.com/minttugomez/tira-harjoitustyo/blob/master/dokumentaatio/Viikkoraportti1.md)
+
 Viikko 2
+
 Viikko 3
+
 Viikko 4
+
 Viikko 5
+
 Viikko 6
